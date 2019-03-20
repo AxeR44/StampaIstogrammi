@@ -1,0 +1,5 @@
+To compile execute:
+
+$gcc StampaIstogrammi.c include/functions.c -o <output_executable_name>
+
+Geometric Mean and Histogram functions not yet implemented
